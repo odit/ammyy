@@ -1,0 +1,862 @@
+﻿-----D_CONNECT
+en=Connect
+ru=Подключиться
+it=Connetti
+pt=Conectar
+es=Conectar
+fr=Se connecter
+de=Verbinden
+tr=Bağlan
+he=התחבר
+pl=Połącz
+cz=Připojit
+el=Σύνδεση
+nl=Verbinden
+da=Tilslut
+hu=Kapcsolódás
+sv=Anslut
+fi=Yhdistä
+no=Koble til
+
+-----D_YOUR_ID
+en=Your ID
+ru=Ваш ID
+it=Il tuo ID
+pt=Sua ID
+es=Su ID
+fr=Votre ID
+de=Ihre ID
+tr=ID'niz
+he=מזהה שלך
+pl=Twoje ID
+cz=Vaše ID
+el=Το ID σας
+nl=Uw ID
+da=ID
+hu=Az Ön ID-je
+sv=Ditt ID
+fi=ID-numero
+no=Din ID
+
+-----D_CLIENT
+en=Client
+ru=Клиент
+pt=Cliente
+es=Cliente
+tr=İstemci
+he=לקוח
+pl=Klient
+cz=Klient
+el=Πελάτης
+da=Klient
+hu=Kliens
+sv=Klient
+fi=Asiakas
+no=Klient
+
+-----D_OPERATOR
+en=Operator
+ru=Оператор
+it=Operatore
+pt=Operador
+es=Operador
+fr=Opérateur
+tr=Operatör
+he=מפעיל
+cz=Operátor
+el=Χειριστής
+da=Operatør
+hu=operátor
+sv=Operatör
+fi=Operaattori
+no=Operatør
+
+-----D_CLIENT_ID_NOT_PROVIDED
+en=Please enter client ID/ IP
+ru=Пожалуйста, укажите ID/ IP клиента
+it=Inserire ID/IP client
+pt=Por favor insira a ID do Cliente
+es=Por favor ingrese el ID del cliente
+fr=Veuillez saisir ID/IP Client
+de=Bitte Client-ID/-IP eingeben
+tr=Lütfen istemci ID/ IP giriniz
+he=אנא הזן את מזהה הלקוח / IP
+pl=Proszę podać ID klienta
+cz=Prosím, zadejte ID/IP klienta
+el=Παρακαλώ εισάγετε το ID του πελάτη
+nl=Vul client ID in
+da=Venligst angiv Klient-ID
+hu=Kérem, adja meg a kliens ID-jét
+sv=Vänligen ange klientens ID
+fi=Syötä asiakas-ID
+no=Vennligst skriv inn klient-ID/ IP
+
+-----D_CLIENT_ID
+en=Client ID/ IP
+ru=ID/ IP клиента
+it=ID client/ IP
+pt=Cliente ID/IP
+es=ID/IP Cliente
+fr=ID/IP Client
+de=Client-ID/-IP
+tr=İstemci ID/ IP
+he=מזהה לקוח / IP
+pl=ID/IP Klienta
+cz=ID/IP klienta
+el=ID/IP Πελάτη
+nl=Client ID/IP
+da=Klient-ID/IP
+hu=Kliens ID/IP
+sv=Klient-ID/IP
+fi=Asiakas-ID/IP
+no=Klient-ID/ IP
+
+-----D_VIEW_ONLY
+en=View only
+ru=Только просмотр
+it=Solo visualizzazione
+fr=Affichage uniquement
+de=Schreibgeschützt
+tr=Sadece İzle
+he=תצוגה בלבד
+cz=Pouze zobrazit (bez vzdáleného ovládání)
+no=Bare se
+
+-----D_PCNotFound
+en=The computer ID=%u wasn't found.
+ru=Компьютер ID=%u не найден
+it=L'ID=%u del computer non è stata trovata.
+pt=O Computador ID=%u não foi encontrado.
+es=El ordenador con el ID=%u no se ha encontrado.
+fr=L'ID de l'ordinateur=%u n'a pas été trouvé.
+de=Der Computer ID=%u wurde nicht gefunden.
+tr=ID=%u'li bilgisayar bulunamadı.
+he=לא נמצא. %u מזהה המחשב
+pl=ID=%u Komputera nie zostało znalezione
+cz=Počítač ID=%u nebyl nalezen.
+el=Ο υπολογιστής ID=%u δεν βρέθηκε
+nl=De computer ID=%u is niet gevonden.
+da=Computer med ID=%u ikke fundet
+hu=A következo ID nem található: %u
+sv=Datorn med ID=%u hittades inte
+fi=Tietokonetta ID:llä %u ei löydy.
+no=Datamaskinens ID=%u ble ikke funnet.
+
+-----D_REMOTEPC_CLOSE
+en=The remote computer closed this session.
+ru=Удаленный компьютер завершил текущую сессию.
+it=Il computer remoto ha chiuso questa sessione.
+pt=O Computador Remoto fechou essa sessão.
+es=El ordenador remoto ha finalizado la sesión.
+fr=L'ordinateur à distance a fermé cette session.
+de=Diese Sitzung wurde vom Remotecomputer geschlossen.
+tr=Uzak bilgisayar bağlantıyı kesti.
+he=המחשב המרוחק סיים את התקשורת.
+pl=Zdalny komputer przerwał połączenie
+cz=Vzdálený počítač ukončil spojení.
+el=Ο απομακρυσμένος υπολογιστής διέκοψε την σύνδεση
+nl=De andere computer heeft de sessie afgebroken.
+da=Fjernbrugeren afsluttede sessionen
+hu=A távoli számítógép megszakította a kapcsolatot
+sv=Fjärrdatorn avslutade sessionen
+fi=Etätietokone sulki yhteyden.
+no=Den eksterne datamaskinen stengte denne økten.
+
+-----D_WARN_DIFF_VERSIONS
+en=The remote pc uses Ammyy Admin v%s\nIt's other version, so the program can work incorrectly!
+ru=Удаленные компьютер использует Ammyy Admin v%s\n Это другая версия, поэтому программа может работать некорректно!
+it=Il pc remoto usa una versione diversa di Ammyy Admin v%s\n, pertanto il programma non può funzinare correttamente!
+pt=O Computador Remoto usa outra versão do Ammyy Admin v%s\nÉ outra versão, o programa poderá trabalhar incorretamente!
+es=La PC remota utiliza otra versión de Ammyy Admin v%s\nIt's, por lo que la aplicación podría no funcionar correctamente.
+fr=Le PC à distance utilise Ammyy Admin v%s\nLa version est différente et le programme ne peut donc pas fonctionner correctement !
+de=Auf dem Remote-PC wird Ammyy Admin v%s verwendet.\nDas ist eine andere Version, es kann daher zu fehlerhafter Ausführung kommen!
+tr=Uzak bilgisayar Ammyy Admin v%s\n kullanıyor. Sürüm farklı olduğundan dolayı program sorunlu çalışabilir!
+he=המחשב המרוחק משתמש בגירסאת Ammyy Admin v%s\nזו גירסא שונה, לכן התוכנית עלולה לפעול באופן לא תקין.
+pl=Zdalny komputer używa innej wersji Ammyy Admin. v%s\n Może to powodować nieprawidłowości w działaniu
+cz=Vzdálený počítač používá Ammyy Admin v%s\nJedná se o jinou verzi, spojení nemusí pracovat správně!
+el=Ο απομακρυσμένος υπολογιστής έχει εκδοση v%s\nIt's του Ammyy Admin. Μπορει να μην υπαρχει ορθη λειτουργία.
+nl=De andere computer gebruikt Ammyy Admin v%s\nl's andere versie, en kan problemen geven!
+da=Fjernbrugeren anvender Ammyy Admin v%s\n Programmet virker muligvis ikke korekt.
+hu=A távoli számítógép által használt Ammyy Admin verzió: v%s\nMivel a verzió eltéro, hibás muködés léphet fel.
+sv=Fjärrdatorn använder Ammyy Admin v%s\nDet är en annan version, så programmet kanske inte fungerar.
+fi=Ohjelma ei voi toimia oikein. Etätietokoneen käytössä on eri versio Ammyy Admin v%s\n ohjelmistosta.
+no=Den eksterne pc'en bruker Ammyy Admin v%s\nDet er en annen versjon, så programmet kan fungere på en feil måte!
+
+-----D_ACCEPT
+en=&Accept
+ru=&Разрешить
+it=&Accetta
+pt=&Aceitar
+es=&Aceptar
+fr=&Accepter
+de=&Annehmen
+tr=&Kabul Et
+he=&קבל
+pl=&Akceptuj
+cz=&Povolit
+el=&Αποδοχή
+nl=&Accepteer
+da=&Godkend
+hu=&Elfogad
+sv=&Acceptera
+fi=&Hyväksy
+no=&Godta
+
+-----D_REJECT
+en=&Reject
+ru=&Отклонить
+it=&Rifiuta
+pt=&Rejeitar
+es=&Rechazar
+fr=&Refuser
+de=&Ablehnen
+tr=&Reddet
+he=&דחה
+pl=&Odzrzuć
+cz=&Zakázat
+el=Α&πόριψψη
+nl=&Weiger
+da=&Afvis
+hu=&Elutasít
+sv=&Neka
+fi=H&ylkää
+no=&Avslå
+
+-----D_ACCEPT_CONN_TEXT
+en=Operator%s is connecting to your PC.
+ru=Оператор%s хочет установить с Вами соединение.
+it=L'operatore%s si sta collegando al PC.
+pt=O Operador com%s esta conectando ao seu PC.
+es=El Operador con la%s está conectandose a su PC.
+fr=L'Opérateur%s se connecte à votre PC.
+de=Operator %s stellt eine Verbindung mit Ihrem PC her.
+tr=Operatör%s bilgisayarınıza bağlanıyor.
+he=מפעיל%s מתחבר אל המחשב שלך.
+pl=Operator o%s próbuje nawiązać z Tobą połączenie
+cz=Operátor%s se připojuje k vašemu počítači.
+el=Ο χειριστής με%s συνδέεται στον υπολογιστή σας.
+nl=Operator met%s is verbinding aan het maken met uw PC.
+da=Admin med%s tilslutter til din PC
+hu=A következo%s számú operátor az Ön számítógépéhez kapcsolódik
+sv=Operatör med%s ansluter till din PC.
+fi=Operaattori%s yrittää yhdistää tietokoneellesi.
+no=Operatøren%s kobler til din PC.
+
+-----D_REMEMBER_MY_ANSWER
+en=Remember my answer for this operator
+ru=Запомнить мой ответ для данного оператора
+it=Ricorda la mia risposta per questo operatore
+pt=Relembrar minha resposta para este operador
+es=Recordar la respuesta para éste operador.
+fr=Se souvenir de ma réponse pour cet opérateur
+de=Meine Antwort für diesen Operator speichern
+tr=Bu operatör için yanıtımı hatırla
+he=זכור עבור מפעיל זה
+pl=Pamiętaj moją odpowiedź dla tego operatora
+cz=Uložit moji odpověď pro tohoto operátora
+el=Απομνημόνευση απάντησης για αυτόν τον χειριστή
+nl=Onthoudt mijn antwoord voor deze operator
+da=Gem mit svar
+hu=Emlékezzen a válaszomra ezt az operátort illetoen
+sv=Kom ihåg mitt svar för denna operatör
+fi=Muista valinta tälle operaattorille
+no=Husk svaret for denne operatøren
+
+-----D_VIEW_SCREEN
+en=View screen
+ru=Просмотр экрана
+it=Visualizza schermata
+fr=Afficher l'écran
+de=Bildschirm anzeigen
+tr=Ekranı göster
+he=הצג מסך
+cz=Zobrazit obrazovku
+no=Vis skjermen
+
+-----D_REMOTE_CONTROL
+en=Remote control
+ru=Удаленное управление
+it=Controllo remoto
+fr=Contrôle à distance
+de=Remotesteuerung
+tr=Uzaktan erişim
+he=שליטה מרחוק
+cz=Vzdálené ovládání
+no=Fjernkontroll
+
+-----D_CLIPBOARD_OUT
+en=Copy clipboard of client
+ru=Копир. буфера клиента
+it=Copia appunti del client
+fr=Copier le presse-papiers du client
+de=Zwischenablage des Clients kopieren
+tr=İstemcinin panosuna kopyala
+he=העתק ללוח הלקוח
+cz=Kopírovat schránku klienta
+no=Kopier klientens utklippstavle
+
+-----D_CLIPBOARD_IN
+en=Copy clipboard of operator
+ru=Копир. буфера операт.
+it=Copia appunti dell'operatore
+fr=Copier le presse-papiers de l'opérateur
+de=Zwischenablage des Operators kopieren
+tr=Operatörün panosuna kopyala
+he=העתק ללוח המפעיל
+cz=Kopírovat schránku operátora
+no=Kopier operatørens utklippstavle
+
+-----D_FILE_MANAGER
+en=File manager
+ru=Менеджер Файлов
+fr=Gestionnaire de fichiers
+de=Dateimanager
+tr=Dosya yöneticisi
+he=מנהל קבצים
+cz=Správce souborů
+no=Filbehandler
+
+-----D_AUDIO_CHAT
+en=Voice chat
+ru=Голосовой чат
+it=Chat vocale
+fr=Chat vocal
+de=Sprach-Chat
+tr=Sesli görüşme
+he=צ'אט קולי
+cz=Hlasový chat
+no=Snakk
+
+-----D_RDP_SESSION
+en=RDP connection
+ru=RDP соединение
+it=Connessione RDP
+fr=Connexion RDP
+de=RDP-Verbindung
+tr=RDP bağlantı
+he=RDP חיבור
+cz=RDP připojení
+no=RDP-tilkobling
+
+-----D_ACCESSREJECTED
+en=Remote computer rejected your query to access.
+ru=Удаленный компьютер отклонил ваш запрос на подключение.
+it=Il computer remoto ha rifiutato la richiesta d'accesso.
+pt=O computador Remoto rejeitou seu pedido de acesso.
+es=El ordenador remoto rechazó su intento de acceso.
+fr=L'ordinateur à distance a rejeté votre requête d'accès.
+de=Die Zugriffsanforderung wurde vom Remotecomputer abgelehnt.
+tr=Uzak bilgisayar bağlantı isteğinizi reddetti.
+he=המחשב המרוחק דחה את בקשת ההתחברות שלך.
+pl=Zdalny komputer odmówił dostępu
+cz=Vzdálený počítač odmítl váš požadavek k přístupu.
+el=Ο απομακρυσμένος υπολογιστής απέρριψε το αίτημα
+nl=De andere computer heeft toegang geweigerd.
+da=Adgang nægtet
+hu=A távoli számítógép visszautasította a kapcsolat elfogadását.
+sv=Fjärrdatorn nekade åtkomst.
+fi=Etätietokone hylkäsi yhteysyrityksen.
+no=Den eksterne datamaskinen nektet tilkoblingsforsøket.
+
+-----D_WAITING_AUTHORIZATION
+en=Waiting for authorization from remote PC
+ru=Ожидание авторизации от удаленного компьютера.
+it=In attesa di autorizzazione dal PC remoto
+pt=Esperando Autorização do PC Remoto.
+es=Esperando Autorización de la PC remota.
+fr=En attente de l'autorisation du PC à distance
+de=Warten auf Annahme des Remotecomputers
+tr=Uzak bilgisayardan yetki bekleniyor
+he=ממתין לאישור המחשב המרוחק.
+pl=Oczekiwanie na autoryzacje ze zdalnego komputera
+cz=Čekání na autorizaci na vzdáleném PC
+el=Αναμονή έγγρισης από τον απομακρυσμένο υπολογιστή
+nl=Op toestemming wachten van andere PC
+da=Afventer godkendelse fra fjern PC.
+hu=Várakozás a távoli számítógép engedélyére.
+sv=Väntar på tillåtelse från fjärdatorn
+fi=Odotetaan valtuutusta etätietokoneelta
+no=Venter på godkjenning fra den andre pc'en
+
+-----D_SESSION_INACTIVE
+en=This session is inactive.\nYou can reconnect to an active session in a few seconds.
+it=Questa sessione è inattiva.\nSarà possibile riconnettersi a una sessione remota tra qualche secondo.
+pt=Esta sessão esta inativa.\nVocê poderá reconectar em alguns segundos.
+es=La sesión se encuentra inactiva.\nPuede reconectarse a la sesión activa en unos segundos.
+fr=Cette session est inactive.\nVous pouvez vous reconnecter à une session active dans quelques secondes.
+de=Diese Sitzung ist inaktiv.\nIn einigen Sekunden ist eine neue Verbindung mit einer aktiven Sitzung möglich.
+tr=Bu bağlantı aktif değil.\nBir kaç saniye içinde aktif bir bağlantı başlatılabilir.
+he=הקשר הנוכחי אינו פעיל.\nניתן להתחבר לתהליך פעיל בעוד מספר שניות.
+pl=Ta sesja jest nieaktywna.\nMożesz się połączyć ponownie za kilka sekund
+cz=Toto spojení je neaktivní.\nMůžete se znovu připojit během několika sekund.
+el=Η σύνδεση είναι ανενεργή.\n Μπορείτε να ξανασυνδεθείτε σε λίγα δευτερόλεπτα.
+nl=De sessie is niet actief.\n U kunt opnieuw verbinden in enkele seconden
+da=Denne session er inaktiv. \n Du kan tilslutte igen om et øjeblik.
+hu=A kapcsolat inaktív.\nÚjrakapcsolódhat néhány másodperc múlva.
+sv=Denna session är inaktiv.\n Du kan återansluta till aktiv session om några sekunder.
+fi=Istunto ei ole aktiivinen. \nAktivoidaksesi istunnon, voit yhdistää uudelleen hetken kuluttua.
+no=Denne økten er inaktiv.\nDu kan koble til den aktive økten om noen sekunder.
+
+-----D_ACCESS_PERMISSIONS
+en=Access Permissions
+ru=Права Доступа
+it=Permessi di accesso
+fr=Autorisations d'accès
+de=Zugriffsberechtigungen
+tr=Erişim İzinleri
+he=הרשאות גישה
+pl=Ustawienia dostępu
+cz=Přístupová práva
+no=Adgangstillatelser
+
+-----D_SETTINGS
+en=Settings
+ru=Настройки
+it=Impostazioni
+fr=Paramètres
+de=Einstellungen
+tr=Ayarlar
+he=הגדרות
+pl=Ustawienia
+cz=Nastavení
+no=Innstillinger
+
+-----D_CONTACT_BOOK
+en=Contact book
+ru=Контактная книга
+it=Rubrica
+fr=Contacts
+de=Kontaktbuch
+tr=İletişim defteri
+he=ספר כתובות
+pl=Książka adresowa
+cz=Adresář
+no=Kontakter
+
+-----D_EXIT
+en=Exit
+ru=Выйти
+it=Esci
+fr=Quitter
+de=Beenden
+tr=Çık
+he=יציאה
+pl=Wyjście
+cz=Konec
+no=Avslutt
+
+-----D_SERVICE
+en=Service
+ru=Служба
+it=Servizio
+tr=Servis
+he=תהליך
+pl=Usługa
+cz=Windows služba
+
+-----D_INSTALL
+en=Install
+ru=Установить
+it=Installa
+fr=Installer
+de=Installieren
+tr=Kur
+he=התקנה
+pl=Zainstaluj
+cz=Instalace
+no=Installer
+
+-----D_START
+en=Start
+ru=Запустить
+it=Avvia
+pt=Começar
+es=Comenzar
+fr=Démarrer
+de=Starten
+tr=Başlat
+he=הפעלה
+el=Έναρξη
+hu=Indítás
+fi=Aloita
+
+-----D_STOP
+en=Stop
+ru=Остановить
+it=Arresta
+pt=Parar
+es=Detener
+fr=Arrêter
+de=Anhalten
+tr=Durdur
+he=עצירה
+el=Λήξη
+hu=Leállítás
+sv=Stopp
+fi=Pysäytä
+no=Stopp
+
+-----D_REMOVE
+en=Remove
+ru=Удалить
+it=Rimuovi
+fr=Supprimer
+de=Entfernen
+tr=Kaldır
+he=הסרה
+pl=Usuń
+cz=Odstranit
+no=Fjern
+
+-----D_ADD
+en=Add
+ru=Добавить
+it=Aggiungi
+fr=Ajouter
+de=Hinzufügen
+tr=Ekle
+he=הוספה
+pl=Dodaj
+cz=Přidat
+no=Legg til
+
+-----D_EDIT
+en=Edit
+ru=Редактировать
+it=Modifica
+fr=Modifier
+de=Bearbeiten
+tr=Düzenle
+he=עריכה
+pl=Edytuj
+cz=Upravit
+no=Rediger
+
+-----D_SETTINGS_COMMON
+en=Common
+ru=Общие
+it=Comune
+fr=Commun
+de=Gemeinsam
+he=כללי
+pl=Ustawienia wspólne
+cz=Další nastavení
+no=vanlig
+
+-----D_SETTINGS_NETWORK
+en=Network
+ru=Сеть
+it=Rete
+fr=Réseau
+de=Netzwerk
+he=רשת
+pl=Sieć
+cz=Síť
+no=Nettverk
+
+-----D_REQUEST_ROUTER
+en=Request client's router IP
+ru=Запрашивать IP клиентского роутера
+it=Richiedi IP del router del client
+fr=Demander l'IP du routeur du client
+de=Router-IP des Clients anfordern
+tr=Müşterinin router IP'sini iste
+he=דווח כתובת נתב הלקוח
+pl=Zapytanie o IP routera klienta
+cz=Vyžádat IP klientova routeru
+no=Be om klientens router-IP
+
+-----D_WARN_FULL_SCREEN
+en=Warn at switching to the full-screen mode
+ru=Предупреждать при переключении на полноэкранный режим
+it=Avvisa al passaggio in modalità a pieno schermo
+fr=Avertir lors du passage en mode plein écran
+de=Bei Umschalten in den Vollbildmodus warnen
+tr=Tam ekran moduna geçerken uyar
+he=סמן במעבר למצב מסך מלא
+pl=Uwaga przełączenie w tryb pełnego ekranu
+cz=Upozornit při přepnutí do režimu celé obrazovky
+no=Advar ved bytte til fullskjermmodus
+
+-----D_LOGGING_FOR_DEBUG
+en=Log debugging info into file
+ru=Записывать в файл отладочную информацию
+it=Registra le info di debug in un file
+fr=Enregistrer les informations de débogage dans le fichier
+de=Debug-Daten in Datei protokollieren
+tr=Debug kaydını dosyaya kaydet
+he=צור קובץ יומן
+pl=Logowanie debugowania do pliku
+cz=Zaznamenávat ladicí informace do souboru
+no=Logg feilsøkingsinformasjon til fil
+
+-----D_RUN_UNDER_SYSTEM
+en=Run under SYSTEM account on %S
+ru=Запускать под системным аккаунтом на %S
+it=Esegui sotto account SYSTEM su %S
+fr=Exécuter sur le compte SYSTEM sur %S
+de=Unter Konto SYSTEM auf %S ausführen
+tr=%S sistemlerinde SYSTEM hesabı ile çalış
+he=הפעל תחת חשבון מערכת בחלונות %S
+pl=Działanie na koncie klienta %S
+cz=Spustit pod účtem SYSTEM na %S
+no=Kjør under SYSTEM-konto i %S
+
+-----D_PROTECT_SETTINGS
+en=Protect these settings from remote operator
+ru=Защитить эти настройки от удаленного оператора
+it=Proteggi queste impostazioni da operatore remoto
+fr=Empêcher l’opérateur à distance de modifier ces réglages
+de=Diese Einstellungen vor Remoteoperator schützen
+tr=Bu seçenekleri uzak operatörün erişiminden koru
+he=אל תאפשר למפעיל לשנות הגדרות אלו
+pl=Chroń przed zmianą ze zdalnej lokalizacji
+cz=Chránit tato nastavení před vzdáleným operátorem
+no=Hindre ekstern operatør å endre disse innstillingene
+
+-----D_OFF_DESKTOP_BACKGROUND
+en=Disable desktop background
+ru=Отключать фоновый рисунок рабочего стола
+it=Disattiva sfondo del desktop
+fr=Désactiver l'arrière-plan du bureau
+de=Desktophintergrund deaktivieren
+tr=Arkaplan resmini gösterme
+he=בטל טפט שולחן עבודה
+pl=Zablokuj zmiany tapety pulpitu
+cz=Zakázat pozadí plochy
+no=Ikke vis skrivebordsbakgrunn
+
+-----D_OFF_DESKTOP_COMPOSITION
+en=Disable desktop composition
+ru=Отключать композицию рабочего стола
+it=Disattiva composizione desktop
+fr=Désactiver la composition du bureau
+de=Desktopzusammensetzung deaktivieren
+tr=Şeffaflık efektini gösterme
+he=בטל שינויי הגדרות שולחן עבודה
+pl=Zablokuj zmiany kompozycji pulpitu
+cz=Zakázat skládání plochy
+no=Slå av skrivebordsoppretting
+
+-----D_OFF_DESKTOP_EFFECTS
+en=Disable visual effects
+ru=Отключать визуальные эффекты
+it=Disattiva effetti visivi
+fr=Désactiver les effets visuels
+de=Visuelle Effekte deaktivieren
+tr=Görsel efektleri gösterme
+he=בטל אפקטים חזותיים
+pl=Zablokuj efekty wizulane
+cz=Zakázat vizuální efekty
+no=Slå av visuelle effekter
+
+-----D_SHOW_HINTS
+en=Show tooltip - mouse cursor blinking cause
+ru=Показывать всплывающие подсказки - причина мерцания курсора мышки
+it=Mostra descrizione comando - fai lampeggiare il puntatore del mouse
+fr=Afficher info-bulle - cause du clignotement du curseur souris
+de=Tooltip anzeigen – Ursache für blinkenden Cursor
+tr=İpuçlarını göster - fare imleci parlaması
+he=הצג טיפים - סמן העכבר עלול להבהב
+pl=Pokazuj podpowiedzi
+cz=Zobrazit tip - indikuje blikání kurzoru myši
+no=Vis verktøytips
+
+-----D_LOCAL_CURSOR_SHAPES
+en=Dot|Small dot|Normal arrow|No cursor
+it=Punto|Piccolo punto|Normale freccia|Nessun cursore
+fr=Point|Petit point|Flèche normale|Aucun curseur
+de=Punkt|Kleiner Punkt|Normaler Pfeil|Kein Cursor
+tr=Nokta|Küçük nokta|Normal ok|İmleç yok
+cz=Tečka|Malá tečka|Normální šipka|Bez kurzoru
+no=Punkt|Lite punkt|Normal peker|Ingen markør
+
+-----D_REMOTE_CURSOR_SHAPES
+en=Don't show|Show shape|Show shape and position
+//ru=Не показывать|Показывать форму|Показывать форму и позицию
+it=Non mostrare|Mostra forma|Mostra forma e posizione
+fr=Ne pas afficher|Afficher forme|Afficher forme et position
+de=Nicht anzeigen|Umriss anzeigen|Umriss und Position anzeigen
+tr=Gösterme|Şeklini göster|Şeklini ve pozisyonunu göster
+cz=Nezobrazovat|Zobrazovat tvar|Zobrazovat tvar a polohu
+no=Ikke vis|Vis form|Vis form and posisjon
+
+-----D_ACCESS_FILES_CUR_USER
+en=Access files under current user account
+ru=Доступ к файлам под аккаунтом текущего пользователя
+it=Accedi ai file con ut
+fr=Accéder aux fichiers avec le compte utilisateur actuel
+de=Mit aktuellem Benutzerkonto auf Dateien zugreifen
+tr=Dosyalara oturum açmış kullanıcının hesabı ile eriş
+pl=Dostęp do plików z bieżącego konta użytkownika
+cz=Přístup k souborům pod aktuálním uživatelským účtem
+no=Gi tilgang til filer under gjeldende brukerkonto
+
+-----D_START_CLIENT
+en=Start "wait for session" mode automatically
+ru=Автоматически запускать режим ожидания сеанса
+it=Avvia modalità "attendi sessione" automaticamente
+fr=Commencer automatiquement en mode "Attendre la session"
+de=Modus "auf Sitzung warten" automatisch starten
+tr="Bağlantı bekleniyor" modunu otomatik olarak başlat
+cz=Po spuštění čekat na spojení automaticky
+no=Start "Vent på økt" Automatisk modus
+
+-----D_WAIT_FOR_SESSION
+en=Wait for session
+ru=Ожидание сеанса
+it=Attendi sessione
+fr=Attendre la session
+de=Auf Sitzung warten
+tr=Bağlantı bekleniyor
+he=ממתין לחיבור
+cz=Čekejte na spojení
+no=Vent på økt
+
+-----D_CREATE_SESSION
+en=Create session
+ru=Создание сеанса
+it=Crea sessione
+fr=Créer la session
+de=Sitzung erstellen
+tr=Bağlantı oluştur
+he=צור חיבור
+cz=Navázat spojení
+no=Opprett økt
+
+-----D_COMPUTER_BUSY
+en=The remote computer exceeded concurrent sessions limit
+ru=Удаленный компьютер превысил лимит одновременных сессий
+it=Il computer remoto ha superato il limite di sessioni concomitanti
+pt=O computador Remoto está ocupado com outra sessão.
+es=El ordenador remoto está ocupado con otra sesión.
+fr=L'ordinateur à distance a dépassé la limite de sessions simultanées
+de=Der Remotecomputer hat das Limit gleichzeitiger Sitzungen erreicht
+tr=Uzak bilgisayar bağlantı sınırına ulaştı
+he=המחשב המרוחק הגיע למגבלת החיבורים המקבילים שלו.
+pl=Zdalny komputer obsługuje inną sesje
+cz=Vzdálený počítač překročil počet souběžných spojení
+el=Ο απομακρυσμένος υπολογιστής είναι σε άλλη ενεργή συνδεση.
+nl=De andere computer is bezig met een andere sessie.
+da=Fjerncomputeren er optaget af en anden session.
+hu=A távoli számítógépen egy másik kapcsolat már aktív.
+sv=Fjärrdatorn är upptagen med andra sessioner.
+fi=Varattu, etätietokoneessa on toinen istunto auki.
+no=Den eksterne datamaskinen overskred økt-grensen
+
+-----D_EXCEED_SESSIONS_VIEWER
+en=You've exceeded %u sessions limit for %S license on this computer
+ru=Вы превысили лимит %u сессии для %S лицензии на этом компьютере
+it=Il limite di %u sessions per la licenza %S di questo computer è stato superato
+fr=Vous avez dépassé la limite de %u sessions avec la licence %S sur cet ordinateur
+de=Sie haben das Limit von %u Sitzungen mit Lizenz %S auf diesem Computer überschritten
+tr=Bu bilgisayarda %S lisansının %u bağlantı sınırına ulaştınız
+he=הגעת למגבלת %u החיבורי עבור רישיון %S המותקן על מחשב זה.
+cz=Překročili jste limit %u spojení pro licenci %S na tomto počítači
+no=Du har overskredet %u økt-grensen for %S denne datamaskinens lisens
+
+-----D_BUY_LICENSE
+en=Please consider buying a license
+ru=Пожалуйста, рассмотрите возможность покупки лицензии
+it=Valutare l'acquisto di una licenza
+fr=Veuillez envisager d'acheter une licence
+de=Bitte erwägen Sie den Kauf einer Lizenz
+tr=Lütfen lisans almayı düşünün
+he=הנך מוזמן לרכוש רישיון
+cz=Prosím, zvažte nákup licence
+no=Vennligst kjøp en lisens
+
+-----D_COPY_FILE_TIME
+en=Copy date/time of files
+ru=Копировать дату/время файлов
+it=Copia ora/data dei file
+fr=Copier la date/l'heure des fichiers
+de=Datum/Uhrzeit von Dateien kopieren
+tr=Dosyaların tarih/zamanını kopyala
+he=העתק קבצי תאריך/שעה
+cz=Zachovat datum a čas souborů
+no=Kopier filenes dato/klokkeslett
+
+-----D_ENCRYPTION
+en=Encryption
+ru=Шифрование
+it=Criptazione
+fr=Chiffrement
+de=Verschlüsselung
+tr=Şifreleme
+he=הצפנה
+cz=Šifrování
+no=Kryptering
+
+-----D_PERMISSIONS
+en=Permissions
+ru=Права
+it=Permessi
+fr=Autorisations
+de=Berechtigungen
+tr=İzinler
+he=הרשאות
+cz=Oprávnění
+no=Tillatelser
+
+-----D_ENTER_PASSWORD
+en=Please enter password for accessing remote computer
+ru=Пожалуйста введите пароль для доступа к удаленному компьютеру
+it=Inserire la password di accesso al computer remoto
+fr=Veuillez saisir le mot de passe pour accéder à l'ordinateur à distance
+de=Bitte geben Sie das Kennwort für den Zugriff auf den Remotecomputer ein
+tr=Uzak bilgisayara bağlanmak için lütfen şifre giriniz
+he=אנא הזן את סיסמאת הגישה למחשב המרוחק
+cz=Prosím, zadejte heslo pro přístup ke vzdálenému počítači
+no=Vennligst skriv inn passord for å koble til den eksterne datamaskinen
+
+-----D_PASSWORD_WRONG
+en=The password you have entered is invalid, please try again
+ru=Вы ввели неверный пароль! Пожалуйста, повторите ввод еще раз
+it=La password inserita non è valida, riprovare
+fr=Le mot de passe que vous avez entré n'est pas valide, veuillez réessayer
+de=Das eingegebene Kennwort ist ungültig, bitte versuchen Sie es noch einmal
+tr=Girdiğiniz şifre doğru değil, lütfen tekrar deneyin
+he=הסיסמא שהזנת שגויה, נא לנסות שנית
+cz=Zadané heslo není správné, zkuste to znovu
+no=Passordet er feil. Vennligst prøv igjen
+
+-----D_ENCODER_PROFILES
+en=Encoder profiles
+ru=Профили кодеков
+it=Profili encoder
+fr=Profils encodeur
+de=Encoder-Profile
+tr=Şifreleyici profilleri
+he=סיווגי חיבורים
+cz=Profily kódování
+no=Krypteringsprofiler
+
+-----D_RDP_SETTINGS
+en=RDP Settings
+ru=Настройки RDP
+it=Impostazioni RDP
+fr=Paramètres RDP
+de=RDP-Einstellungen
+tr=RDP Ayarları
+he=RDP הגדרות
+cz=Nastavení RDP
+no=RDP-innstillinger
+
+-----D_VIDEO_SPEED_TEST
+en=Video system speed test
+ru=Тест скорости видео системы
+
+-----D_AUTO_LOCK_COMPUTER
+en=Automatically lock this computer after finishing all sessions
+ru=Автоматичестки блокировать этот компьютер после завершения всех сессий
+
+-----D_WANT_TO_CLOSE_AMMYY
+en=Would you like to close Ammyy Admin application and all active sessions ?\nNumber of current active sessions: %u
+ru=Вы хотите закрыть приложение Ammyy Admin и все активные сессии ?\nКоличество активных сессий: %u
+
+-----D_FM_PATH
+en=Path for acessing of File Manager. (Empty for accessing all files).
+ru=Путь для доступа Менеджера Файлов. (Пустой для доступа ко всем файлам).
+
+ 
