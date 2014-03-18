@@ -17,6 +17,7 @@ hu=Kapcsolódás
 sv=Anslut
 fi=Yhdistä
 no=Koble til
+cn=
 
 -----D_YOUR_ID
 en=Your ID
@@ -37,6 +38,7 @@ hu=Az Ön ID-je
 sv=Ditt ID
 fi=ID-numero
 no=Din ID
+cn=
 
 -----D_CLIENT
 en=Client
@@ -53,6 +55,7 @@ hu=Kliens
 sv=Klient
 fi=Asiakas
 no=Klient
+cn=
 
 -----D_OPERATOR
 en=Operator
@@ -70,6 +73,7 @@ hu=operátor
 sv=Operatör
 fi=Operaattori
 no=Operatør
+cn=
 
 -----D_CLIENT_ID_NOT_PROVIDED
 en=Please enter client ID/ IP
@@ -90,6 +94,7 @@ hu=Kérem, adja meg a kliens ID-jét
 sv=Vänligen ange klientens ID
 fi=Syötä asiakas-ID
 no=Vennligst skriv inn klient-ID/ IP
+cn=
 
 -----D_CLIENT_ID
 en=Client ID/ IP
@@ -110,6 +115,7 @@ hu=Kliens ID/IP
 sv=Klient-ID/IP
 fi=Asiakas-ID/IP
 no=Klient-ID/ IP
+cn=
 
 -----D_VIEW_ONLY
 en=View only
@@ -121,6 +127,7 @@ tr=Sadece İzle
 he=תצוגה בלבד
 cz=Pouze zobrazit (bez vzdáleného ovládání)
 no=Bare se
+cn=
 
 -----D_PCNotFound
 en=The computer ID=%u wasn't found.
@@ -141,6 +148,7 @@ hu=A következo ID nem található: %u
 sv=Datorn med ID=%u hittades inte
 fi=Tietokonetta ID:llä %u ei löydy.
 no=Datamaskinens ID=%u ble ikke funnet.
+cn=
 
 -----D_REMOTEPC_CLOSE
 en=The remote computer closed this session.
@@ -161,6 +169,7 @@ hu=A távoli számítógép megszakította a kapcsolatot
 sv=Fjärrdatorn avslutade sessionen
 fi=Etätietokone sulki yhteyden.
 no=Den eksterne datamaskinen stengte denne økten.
+cn=
 
 -----D_WARN_DIFF_VERSIONS
 en=The remote pc uses Ammyy Admin v%s\nIt's other version, so the program can work incorrectly!
@@ -181,6 +190,7 @@ hu=A távoli számítógép által használt Ammyy Admin verzió: v%s\nMivel a v
 sv=Fjärrdatorn använder Ammyy Admin v%s\nDet är en annan version, så programmet kanske inte fungerar.
 fi=Ohjelma ei voi toimia oikein. Etätietokoneen käytössä on eri versio Ammyy Admin v%s\n ohjelmistosta.
 no=Den eksterne pc'en bruker Ammyy Admin v%s\nDet er en annen versjon, så programmet kan fungere på en feil måte!
+cn=
 
 -----D_ACCEPT
 en=&Accept
@@ -201,6 +211,7 @@ hu=&Elfogad
 sv=&Acceptera
 fi=&Hyväksy
 no=&Godta
+cn=
 
 -----D_REJECT
 en=&Reject
@@ -221,6 +232,7 @@ hu=&Elutasít
 sv=&Neka
 fi=H&ylkää
 no=&Avslå
+cn=
 
 -----D_ACCEPT_CONN_TEXT
 en=Operator%s is connecting to your PC.
@@ -241,6 +253,7 @@ hu=A következo%s számú operátor az Ön számítógépéhez kapcsolódik
 sv=Operatör med%s ansluter till din PC.
 fi=Operaattori%s yrittää yhdistää tietokoneellesi.
 no=Operatøren%s kobler til din PC.
+cn=
 
 -----D_REMEMBER_MY_ANSWER
 en=Remember my answer for this operator
@@ -261,6 +274,7 @@ hu=Emlékezzen a válaszomra ezt az operátort illetoen
 sv=Kom ihåg mitt svar för denna operatör
 fi=Muista valinta tälle operaattorille
 no=Husk svaret for denne operatøren
+cn=
 
 -----D_VIEW_SCREEN
 en=View screen
@@ -272,6 +286,7 @@ tr=Ekranı göster
 he=הצג מסך
 cz=Zobrazit obrazovku
 no=Vis skjermen
+cn=
 
 -----D_REMOTE_CONTROL
 en=Remote control
@@ -283,6 +298,7 @@ tr=Uzaktan erişim
 he=שליטה מרחוק
 cz=Vzdálené ovládání
 no=Fjernkontroll
+cn=
 
 -----D_CLIPBOARD_OUT
 en=Copy clipboard of client
@@ -294,6 +310,7 @@ tr=İstemcinin panosuna kopyala
 he=העתק ללוח הלקוח
 cz=Kopírovat schránku klienta
 no=Kopier klientens utklippstavle
+cn=
 
 -----D_CLIPBOARD_IN
 en=Copy clipboard of operator
@@ -305,6 +322,7 @@ tr=Operatörün panosuna kopyala
 he=העתק ללוח המפעיל
 cz=Kopírovat schránku operátora
 no=Kopier operatørens utklippstavle
+cn=
 
 -----D_FILE_MANAGER
 en=File manager
@@ -315,6 +333,7 @@ tr=Dosya yöneticisi
 he=מנהל קבצים
 cz=Správce souborů
 no=Filbehandler
+cn=
 
 -----D_AUDIO_CHAT
 en=Voice chat
@@ -326,6 +345,7 @@ tr=Sesli görüşme
 he=צ'אט קולי
 cz=Hlasový chat
 no=Snakk
+cn=
 
 -----D_RDP_SESSION
 en=RDP connection
@@ -337,6 +357,7 @@ tr=RDP bağlantı
 he=RDP חיבור
 cz=RDP připojení
 no=RDP-tilkobling
+cn=
 
 -----D_ACCESSREJECTED
 en=Remote computer rejected your query to access.
@@ -357,6 +378,7 @@ hu=A távoli számítógép visszautasította a kapcsolat elfogadását.
 sv=Fjärrdatorn nekade åtkomst.
 fi=Etätietokone hylkäsi yhteysyrityksen.
 no=Den eksterne datamaskinen nektet tilkoblingsforsøket.
+cn=
 
 -----D_WAITING_AUTHORIZATION
 en=Waiting for authorization from remote PC
@@ -377,6 +399,7 @@ hu=Várakozás a távoli számítógép engedélyére.
 sv=Väntar på tillåtelse från fjärdatorn
 fi=Odotetaan valtuutusta etätietokoneelta
 no=Venter på godkjenning fra den andre pc'en
+cn=
 
 -----D_SESSION_INACTIVE
 en=This session is inactive.\nYou can reconnect to an active session in a few seconds.
@@ -396,6 +419,7 @@ hu=A kapcsolat inaktív.\nÚjrakapcsolódhat néhány másodperc múlva.
 sv=Denna session är inaktiv.\n Du kan återansluta till aktiv session om några sekunder.
 fi=Istunto ei ole aktiivinen. \nAktivoidaksesi istunnon, voit yhdistää uudelleen hetken kuluttua.
 no=Denne økten er inaktiv.\nDu kan koble til den aktive økten om noen sekunder.
+cn=
 
 -----D_ACCESS_PERMISSIONS
 en=Access Permissions
@@ -408,6 +432,7 @@ he=הרשאות גישה
 pl=Ustawienia dostępu
 cz=Přístupová práva
 no=Adgangstillatelser
+cn=
 
 -----D_SETTINGS
 en=Settings
@@ -420,6 +445,7 @@ he=הגדרות
 pl=Ustawienia
 cz=Nastavení
 no=Innstillinger
+cn=
 
 -----D_CONTACT_BOOK
 en=Contact book
@@ -432,6 +458,7 @@ he=ספר כתובות
 pl=Książka adresowa
 cz=Adresář
 no=Kontakter
+cn=
 
 -----D_EXIT
 en=Exit
@@ -444,6 +471,7 @@ he=יציאה
 pl=Wyjście
 cz=Konec
 no=Avslutt
+cn=
 
 -----D_SERVICE
 en=Service
@@ -453,6 +481,7 @@ tr=Servis
 he=תהליך
 pl=Usługa
 cz=Windows služba
+cn=
 
 -----D_INSTALL
 en=Install
@@ -465,6 +494,7 @@ he=התקנה
 pl=Zainstaluj
 cz=Instalace
 no=Installer
+cn=
 
 -----D_START
 en=Start
@@ -479,6 +509,7 @@ he=הפעלה
 el=Έναρξη
 hu=Indítás
 fi=Aloita
+cn=
 
 -----D_STOP
 en=Stop
@@ -495,6 +526,7 @@ hu=Leállítás
 sv=Stopp
 fi=Pysäytä
 no=Stopp
+cn=
 
 -----D_REMOVE
 en=Remove
@@ -507,6 +539,7 @@ he=הסרה
 pl=Usuń
 cz=Odstranit
 no=Fjern
+cn=
 
 -----D_ADD
 en=Add
@@ -519,6 +552,7 @@ he=הוספה
 pl=Dodaj
 cz=Přidat
 no=Legg til
+cn=
 
 -----D_EDIT
 en=Edit
@@ -531,6 +565,7 @@ he=עריכה
 pl=Edytuj
 cz=Upravit
 no=Rediger
+cn=
 
 -----D_SETTINGS_COMMON
 en=Common
@@ -542,6 +577,7 @@ he=כללי
 pl=Ustawienia wspólne
 cz=Další nastavení
 no=vanlig
+cn=
 
 -----D_SETTINGS_NETWORK
 en=Network
@@ -553,6 +589,7 @@ he=רשת
 pl=Sieć
 cz=Síť
 no=Nettverk
+cn=
 
 -----D_REQUEST_ROUTER
 en=Request client's router IP
@@ -565,6 +602,7 @@ he=דווח כתובת נתב הלקוח
 pl=Zapytanie o IP routera klienta
 cz=Vyžádat IP klientova routeru
 no=Be om klientens router-IP
+cn=
 
 -----D_WARN_FULL_SCREEN
 en=Warn at switching to the full-screen mode
@@ -577,6 +615,7 @@ he=סמן במעבר למצב מסך מלא
 pl=Uwaga przełączenie w tryb pełnego ekranu
 cz=Upozornit při přepnutí do režimu celé obrazovky
 no=Advar ved bytte til fullskjermmodus
+cn=
 
 -----D_LOGGING_FOR_DEBUG
 en=Log debugging info into file
@@ -589,6 +628,7 @@ he=צור קובץ יומן
 pl=Logowanie debugowania do pliku
 cz=Zaznamenávat ladicí informace do souboru
 no=Logg feilsøkingsinformasjon til fil
+cn=
 
 -----D_RUN_UNDER_SYSTEM
 en=Run under SYSTEM account on %S
@@ -601,6 +641,7 @@ he=הפעל תחת חשבון מערכת בחלונות %S
 pl=Działanie na koncie klienta %S
 cz=Spustit pod účtem SYSTEM na %S
 no=Kjør under SYSTEM-konto i %S
+cn=
 
 -----D_PROTECT_SETTINGS
 en=Protect these settings from remote operator
@@ -613,6 +654,7 @@ he=אל תאפשר למפעיל לשנות הגדרות אלו
 pl=Chroń przed zmianą ze zdalnej lokalizacji
 cz=Chránit tato nastavení před vzdáleným operátorem
 no=Hindre ekstern operatør å endre disse innstillingene
+cn=
 
 -----D_OFF_DESKTOP_BACKGROUND
 en=Disable desktop background
@@ -625,6 +667,7 @@ he=בטל טפט שולחן עבודה
 pl=Zablokuj zmiany tapety pulpitu
 cz=Zakázat pozadí plochy
 no=Ikke vis skrivebordsbakgrunn
+cn=
 
 -----D_OFF_DESKTOP_COMPOSITION
 en=Disable desktop composition
@@ -637,6 +680,7 @@ he=בטל שינויי הגדרות שולחן עבודה
 pl=Zablokuj zmiany kompozycji pulpitu
 cz=Zakázat skládání plochy
 no=Slå av skrivebordsoppretting
+cn=
 
 -----D_OFF_DESKTOP_EFFECTS
 en=Disable visual effects
@@ -649,6 +693,7 @@ he=בטל אפקטים חזותיים
 pl=Zablokuj efekty wizulane
 cz=Zakázat vizuální efekty
 no=Slå av visuelle effekter
+cn=
 
 -----D_SHOW_HINTS
 en=Show tooltip - mouse cursor blinking cause
@@ -661,6 +706,7 @@ he=הצג טיפים - סמן העכבר עלול להבהב
 pl=Pokazuj podpowiedzi
 cz=Zobrazit tip - indikuje blikání kurzoru myši
 no=Vis verktøytips
+cn=
 
 -----D_LOCAL_CURSOR_SHAPES
 en=Dot|Small dot|Normal arrow|No cursor
@@ -670,6 +716,7 @@ de=Punkt|Kleiner Punkt|Normaler Pfeil|Kein Cursor
 tr=Nokta|Küçük nokta|Normal ok|İmleç yok
 cz=Tečka|Malá tečka|Normální šipka|Bez kurzoru
 no=Punkt|Lite punkt|Normal peker|Ingen markør
+cn=
 
 -----D_REMOTE_CURSOR_SHAPES
 en=Don't show|Show shape|Show shape and position
@@ -680,6 +727,7 @@ de=Nicht anzeigen|Umriss anzeigen|Umriss und Position anzeigen
 tr=Gösterme|Şeklini göster|Şeklini ve pozisyonunu göster
 cz=Nezobrazovat|Zobrazovat tvar|Zobrazovat tvar a polohu
 no=Ikke vis|Vis form|Vis form and posisjon
+cn=
 
 -----D_ACCESS_FILES_CUR_USER
 en=Access files under current user account
@@ -691,6 +739,7 @@ tr=Dosyalara oturum açmış kullanıcının hesabı ile eriş
 pl=Dostęp do plików z bieżącego konta użytkownika
 cz=Přístup k souborům pod aktuálním uživatelským účtem
 no=Gi tilgang til filer under gjeldende brukerkonto
+cn=
 
 -----D_START_CLIENT
 en=Start "wait for session" mode automatically
@@ -701,6 +750,7 @@ de=Modus "auf Sitzung warten" automatisch starten
 tr="Bağlantı bekleniyor" modunu otomatik olarak başlat
 cz=Po spuštění čekat na spojení automaticky
 no=Start "Vent på økt" Automatisk modus
+cn=
 
 -----D_WAIT_FOR_SESSION
 en=Wait for session
@@ -712,6 +762,7 @@ tr=Bağlantı bekleniyor
 he=ממתין לחיבור
 cz=Čekejte na spojení
 no=Vent på økt
+cn=
 
 -----D_CREATE_SESSION
 en=Create session
@@ -723,6 +774,7 @@ tr=Bağlantı oluştur
 he=צור חיבור
 cz=Navázat spojení
 no=Opprett økt
+cn=
 
 -----D_COMPUTER_BUSY
 en=The remote computer exceeded concurrent sessions limit
@@ -743,6 +795,7 @@ hu=A távoli számítógépen egy másik kapcsolat már aktív.
 sv=Fjärrdatorn är upptagen med andra sessioner.
 fi=Varattu, etätietokoneessa on toinen istunto auki.
 no=Den eksterne datamaskinen overskred økt-grensen
+cn=
 
 -----D_EXCEED_SESSIONS_VIEWER
 en=You've exceeded %u sessions limit for %S license on this computer
@@ -754,6 +807,7 @@ tr=Bu bilgisayarda %S lisansının %u bağlantı sınırına ulaştınız
 he=הגעת למגבלת %u החיבורי עבור רישיון %S המותקן על מחשב זה.
 cz=Překročili jste limit %u spojení pro licenci %S na tomto počítači
 no=Du har overskredet %u økt-grensen for %S denne datamaskinens lisens
+cn=
 
 -----D_BUY_LICENSE
 en=Please consider buying a license
@@ -765,6 +819,7 @@ tr=Lütfen lisans almayı düşünün
 he=הנך מוזמן לרכוש רישיון
 cz=Prosím, zvažte nákup licence
 no=Vennligst kjøp en lisens
+cn=
 
 -----D_COPY_FILE_TIME
 en=Copy date/time of files
@@ -776,6 +831,7 @@ tr=Dosyaların tarih/zamanını kopyala
 he=העתק קבצי תאריך/שעה
 cz=Zachovat datum a čas souborů
 no=Kopier filenes dato/klokkeslett
+cn=
 
 -----D_ENCRYPTION
 en=Encryption
@@ -787,6 +843,7 @@ tr=Şifreleme
 he=הצפנה
 cz=Šifrování
 no=Kryptering
+cn=
 
 -----D_PERMISSIONS
 en=Permissions
@@ -798,6 +855,7 @@ tr=İzinler
 he=הרשאות
 cz=Oprávnění
 no=Tillatelser
+cn=
 
 -----D_ENTER_PASSWORD
 en=Please enter password for accessing remote computer
@@ -809,6 +867,7 @@ tr=Uzak bilgisayara bağlanmak için lütfen şifre giriniz
 he=אנא הזן את סיסמאת הגישה למחשב המרוחק
 cz=Prosím, zadejte heslo pro přístup ke vzdálenému počítači
 no=Vennligst skriv inn passord for å koble til den eksterne datamaskinen
+cn=
 
 -----D_PASSWORD_WRONG
 en=The password you have entered is invalid, please try again
@@ -820,6 +879,7 @@ tr=Girdiğiniz şifre doğru değil, lütfen tekrar deneyin
 he=הסיסמא שהזנת שגויה, נא לנסות שנית
 cz=Zadané heslo není správné, zkuste to znovu
 no=Passordet er feil. Vennligst prøv igjen
+cn=
 
 -----D_ENCODER_PROFILES
 en=Encoder profiles
@@ -831,6 +891,7 @@ tr=Şifreleyici profilleri
 he=סיווגי חיבורים
 cz=Profily kódování
 no=Krypteringsprofiler
+cn=
 
 -----D_RDP_SETTINGS
 en=RDP Settings
@@ -842,21 +903,25 @@ tr=RDP Ayarları
 he=RDP הגדרות
 cz=Nastavení RDP
 no=RDP-innstillinger
+cn=
 
 -----D_VIDEO_SPEED_TEST
 en=Video system speed test
 ru=Тест скорости видео системы
+cn=
 
 -----D_AUTO_LOCK_COMPUTER
 en=Automatically lock this computer after finishing all sessions
 ru=Автоматичестки блокировать этот компьютер после завершения всех сессий
+cn=
 
 -----D_WANT_TO_CLOSE_AMMYY
 en=Would you like to close Ammyy Admin application and all active sessions ?\nNumber of current active sessions: %u
 ru=Вы хотите закрыть приложение Ammyy Admin и все активные сессии ?\nКоличество активных сессий: %u
+cn=
 
 -----D_FM_PATH
 en=Path for acessing of File Manager. (Empty for accessing all files).
 ru=Путь для доступа Менеджера Файлов. (Пустой для доступа ко всем файлам).
-
+cn=
  
